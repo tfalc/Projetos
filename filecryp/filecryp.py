@@ -42,7 +42,7 @@ if fileNameWithoutExtension.isalpha():
     print("Convertendo o nome do arquivo...")
     print("-" * 60)
 else:
-    print("Nome do arquivo não pode conter números. Repita a operação.")
+    print("Nome do arquivo não pode conter números ou caracteres especiais. Repita a operação.")
     exit()
 
 # Convertendo o nome do arquivo em números
