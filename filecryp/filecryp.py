@@ -2,7 +2,7 @@
 # a esses arquivos.
 #
 # A criptografia maluca do falczy define que:
-#     - As letras dos arquivos devem ser trocadas por números conforme correspondência. Ex.: a=1, b=2, c=3 ... z=28.
+#     - As letras dos arquivos devem ser trocadas por números conforme correspondência. Ex.: a=1, b=2, c=3 ... z=26.
 #     - Após transformar uma letra em número, deve ser inserido um _ após esse número.
 #     - A extensão do arquivo deve ser alterada para .falczy
 #
